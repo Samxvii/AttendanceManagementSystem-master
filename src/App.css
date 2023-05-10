@@ -1,0 +1,169 @@
+.main_back { 
+	background-color:rgba(36.12499974668026, 35.64032435417175, 35.071354284882545, 1);
+	width:100%;
+	height:100%;
+	position:absolute;
+}
+.navbar_red { 
+	background-color:rgba(180.6249949336052, 81.28124848008156, 81.28124848008156, 1);
+	width:100%;
+	height:10%;
+	position:absolute;
+	left:0px;
+	top:-3px;
+}
+.title { 
+	color:rgba(255, 255, 255, 1);
+	width:80%;
+	height:62px;
+	position:absolute;
+	left:292px;
+	font-family:Montserrat;
+	font-weight: bolder;
+	text-align:center;
+	font-size:4em;
+	letter-spacing:0;
+}
+.nav_back{
+	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 1);
+	width:280px;
+	height:85%;
+	position:absolute;
+	left:20px;
+	top:8em;
+	border-top-left-radius:41px;
+	border-top-right-radius:41px;
+	border-bottom-left-radius:41px;
+	border-bottom-right-radius:41px;
+}
+.user_img { 
+	border-radius:50%;
+	width:7em;
+	height:7em;
+	position:absolute;
+	left:6em;
+	top:10em;
+	background-image:url("/home/047pegasus/IBM /attendance_management_system/images.png");
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.feat3 { 
+	color:rgba(0, 0, 0, 1);
+	width:214.97630310058594px;
+	height:92.12598419189453px;
+	position:absolute;
+	left:52px;
+	top:15.5em;
+	font-family:Montserrat;
+	font-weight: bolder;
+	text-align:center;
+	font-size:30px;
+	letter-spacing:0;
+}
+.feat1 { 
+	color:rgba(0, 0, 0, 1);
+	width:214.97630310058594px;
+	height:5%;
+	position:absolute;
+	left:52px;
+	top:12.5em;
+	font-family:Montserrat;
+	font-weight: bolder;
+	text-align:center;
+	font-size:30px;
+	letter-spacing:0;
+}
+.username { 
+	color:rgba(0, 0, 0, 1);
+	width:215px;
+	height:44px;
+	position:absolute;
+	left:51px;
+	top:9.5em;
+	font-family:Montserrat;
+	font-weight: bolder;
+	text-align:center;
+	font-size:30px;
+	letter-spacing:0;
+}
+.current_details { 
+	color:rgba(0, 0, 0, 1);
+	width:253px;
+	height:138px;
+	position:absolute;
+	left:33px;
+	top:43em;
+	font-family:Montserrat;
+	text-align:center;
+	font-size:18px;
+	letter-spacing:0;
+}
+.logout_button { 
+	background-color:rgba(36.00000165402889, 36.00000165402889, 35.00000171363354, 1);
+	width:208px;
+	height:60px;
+	position:absolute;
+	left:55px;
+	top:40em;
+}
+.logout_textsp { 
+	color:rgba(255, 255, 255, 1);
+	width:112px;
+	height:37px;
+	position:absolute;
+	left:104px;
+	top:21.6em;
+	font-family:Montserrat;
+	text-align:left;
+	font-size:30px;
+	letter-spacing:0;
+}
+.logout_text{
+	color:white;
+	text-decoration: none;
+}
+
+.pegasus_img { 
+	border-radius:50%;
+	width:5em;
+	height:5em;
+	position:absolute;
+	left:70px;
+	top:0.2em;
+	background-image:url("/home/047pegasus/IBM /attendance_management_system/047pegasus.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.app_window { 
+	background-color:rgba(63.75, 63.75, 63.75, 1);
+	width:82.5%;
+	height:84%;
+	position:absolute;
+	left:327px;
+	top:8em;
+}
+.e3_117 { 
+	color:rgba(255, 255, 255, 1);
+	width:30em;
+	height:54px;
+	position:absolute;
+	left:5em;
+	top:4em;
+	font-family:Montserrat;
+	text-align:center;
+	font-size:40px;
+	letter-spacing:0;
+}
+.e3_118 { 
+	color:rgba(255, 255, 255, 1);
+	width:20em;
+	height:268px;
+	position:absolute;
+	left:2em;
+	top:4em;
+	font-family:Montserrat;
+	text-align:center;
+	font-size:68px;
+	letter-spacing:0;
+}
+

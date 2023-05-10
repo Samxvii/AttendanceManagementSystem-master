@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7e8bfef8.css",
+    "main.js": "/static/js/main.d366f162.js",
+    "static/js/787.1aa8b4bd.chunk.js": "/static/js/787.1aa8b4bd.chunk.js",
+    "static/media/047pegasus.jpg": "/static/media/047pegasus.7441ffc41087e2b3f39a.jpg",
+    "index.html": "/index.html",
+    "main.7e8bfef8.css.map": "/static/css/main.7e8bfef8.css.map",
+    "main.d366f162.js.map": "/static/js/main.d366f162.js.map",
+    "787.1aa8b4bd.chunk.js.map": "/static/js/787.1aa8b4bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e8bfef8.css",
+    "static/js/main.d366f162.js"
+  ]
+}
