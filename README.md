@@ -2,10 +2,6 @@
 
 <p id="description">The project was developed by Sanskar Malviya as an internship project. This project us bootstrapped using Create React App command and it is a dynamic React based Web application that uses Firebase API's in order to fetch data from Realtime database available on Firebase that is a PaaS service provided by Google Cloud Platform.</p>
 
-<h2>🚀 Demo</h2>
-
-[https://pegasus-attendance-system.web.app/](https://pegasus-attendance-system.web.app/)
-
 <h2>📷️ Project Screenshots:</h2>
 
 <h3>Login Screen:</h3>
