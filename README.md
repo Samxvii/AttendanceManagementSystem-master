@@ -1,8 +1,6 @@
 <h1 align="center" id="title">Attendance Management System</h1>
 
-<p align="center"><img src="https://socialify.git.ci/047pegasus/AttendanceManagementSystem/image?description=1&amp;font=Raleway&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Circuit%20Board&amp;theme=Dark" alt="project-image"></p>
-
-<p id="description">The project was developed by Team Pegasus as an internship project. This project us bootstrapped using Create React App command and it is a dynamic React based Web application that uses Firebase API's in order to fetch data from Realtime database available on Firebase that is a PaaS service provided by Google Cloud Platform.</p>
+<p id="description">The project was developed by Sanskar Malviya as an internship project. This project us bootstrapped using Create React App command and it is a dynamic React based Web application that uses Firebase API's in order to fetch data from Realtime database available on Firebase that is a PaaS service provided by Google Cloud Platform.</p>
 
 <h2>🚀 Demo</h2>
 
@@ -55,10 +53,6 @@ npm start
 Ctrl + C
 ```
 
-<h2>🍰 Contribution Guidelines:</h2>
-
-The project was made possible by contributions and efforts from the entire Team Pegasus members and was made possible under the guidance of Team Lead: Mr. Tanishq Agarwal. Special thanks to the Team Mentor: Mr. Yosgesh Raje for providing his excellent support at every stage in the project.
-
   
   
 <h2>💻 Built with</h2>
@@ -77,4 +71,4 @@ This project is licensed under the GPL-3.0 license
 
 <h2>💖Like my work?</h2>
 
-To connect with me for future projects connect with me at: 047pegasus@gmail.com or at : tanishqoct11@gmail.com
+To connect with me for future projects connect with me at: Sanskarmalviya7@gmail.com
